@@ -35,6 +35,7 @@
                             <constraint firstItem="sD1-hN-OXA" firstAttribute="top" secondItem="10I-UU-99f" secondAttribute="bottom" constant="20" id="ERT-ec-t2V"/>
                             <constraint firstItem="c9b-5r-Cd0" firstAttribute="trailing" secondItem="10I-UU-99f" secondAttribute="trailing" constant="16" id="LUG-CY-DUI"/>
                             <constraint firstItem="sD1-hN-OXA" firstAttribute="height" secondItem="10I-UU-99f" secondAttribute="height" multiplier="0.965854" id="NG0-nH-lxc"/>
+                            <constraint firstAttribute="bottom" secondItem="sD1-hN-OXA" secondAttribute="bottom" constant="20" id="Y5c-ad-zY7"/>
                             <constraint firstItem="10I-UU-99f" firstAttribute="leading" secondItem="c9b-5r-Cd0" secondAttribute="leading" constant="16" id="oUW-UR-XnJ"/>
                         </constraints>
                     </view>
