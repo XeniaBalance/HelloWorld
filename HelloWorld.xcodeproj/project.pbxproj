@@ -60,12 +60,20 @@
 				5E8126F12BB59CCB0070F6AA /* SceneDelegate.swift */,
 				5E8126F32BB59CCB0070F6AA /* ViewController.swift */,
 				5E8126F52BB59CCB0070F6AA /* Main.storyboard */,
+				5E9E77752BBEEE3A008BAD53 /* pushTheButton */,
 				5E8126F82BB59CCF0070F6AA /* Assets.xcassets */,
 				5E8126FA2BB59CCF0070F6AA /* LaunchScreen.storyboard */,
 				5E8126FD2BB59CCF0070F6AA /* Info.plist */,
 			);
 			path = HelloWorld;
 			sourceTree = "<group>";
+		};
+		5E9E77752BBEEE3A008BAD53 /* pushTheButton */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = pushTheButton;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -297,7 +305,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -328,7 +336,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
